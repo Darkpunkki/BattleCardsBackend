@@ -12,7 +12,7 @@ public class GameServer {
     private CountDownLatch latch;
 
     public void start(int port) throws IOException {
-        ServerSocket serverSocket = new ServerSocket(port);
+        serverSocket = new ServerSocket(port);
 
 
         latch = new CountDownLatch(2);

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BattleCardsServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BattleCardsServer_jar</output-path>
+    <root id="archive" name="BattleCardsServer.jar">
+      <element id="module-output" name="BattleCardsServer" />
+    </root>
+  </artifact>
+</component>
